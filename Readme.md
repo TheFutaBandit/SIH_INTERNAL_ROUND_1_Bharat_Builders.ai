@@ -6,22 +6,21 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** Bharat_Builders.ai
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@toadchef2](https://github.com/toadchef2)
 
 **Team Members:**
 
-- **Yash Bishnoi** - 2021UEC4545 - [@USERNAME](https://github.com/USERNAME)
+- **Yash Bishnoi** - 2021UEC4545 - [@toadchef42](https://github.com/toadchef2)
 - **Pramesh Anand** - 2021UIT3085 - [@TheFutaBandit](https://github.com/TheFutaBandit)
-- **Chelsi Kothari** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Chelsi Kothari** - 2021UCS1635 - [@USERNAME](https://github.com/USERNAME)
 - **Anandiya Sheel Diwan** - 2021UEE4562 - [@Karma-ASD](https://github.com/Karma-ASD)
-- **Anshita** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **Ananthu Krishna** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Anshita** - 2022UBT1054 - [NA](https://github.com/USERNAME)
+- **Ananthu Krishna** - 2021UME4011 - [NA](https://github.com/USERNAME)
 
 ## Project Links
 
 - **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Video Demonstration:** [Watch Video](https://youtu.be/uX1Adyokauo)
+- **Source Code:** [SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/](https://github.com/TheFutaBandit/SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/)
+- **Additional Resources:** [MQTT-Reference-material](https://bytebeam.io/blog/getting-started-with-mqtt-on-raspberry-pi-using-python/)

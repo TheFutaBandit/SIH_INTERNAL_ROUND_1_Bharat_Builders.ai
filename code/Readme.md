@@ -38,3 +38,8 @@ pip3 install streamlit
 pip install paho-mqtt
 ```
 
+2. **Run the Mobile Application**
+```bash
+streamlit run app.py
+```
+

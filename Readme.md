@@ -18,8 +18,8 @@ This README provides an overview of the project, including team details, relevan
 - **Ananthu Krishna** - 2021UME4011 - [NA](https://github.com/USERNAME)
 
 ## Project Links
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **Internal Presentation:** [IInternal_PPT_Bharat_Builders.ai](https://github.com/TheFutaBandit/SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/blob/master/files/IInternal_PPT_Bharat_Builders.ai.pdf)
+- **Final SIH Presentation:** [SIH_PPT__Bharat_Builders.ai](https://github.com/TheFutaBandit/SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/blob/master/files/SIH_PPT__Bharat_Builders.ai.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/uX1Adyokauo)
 - **Source Code:** [SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/](https://github.com/TheFutaBandit/SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/)
 - **Additional Resources:** [MQTT-Reference-material](https://bytebeam.io/blog/getting-started-with-mqtt-on-raspberry-pi-using-python/)

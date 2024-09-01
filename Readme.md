@@ -1,21 +1,21 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# Hardware
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Bharat_Builders.ai
 
 **Team Leader:** [@USERNAME](https://github.com/USERNAME)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Yash Bishnoi** - 2021UEC4545 - [@USERNAME](https://github.com/USERNAME)
+- **Pramesh Anand** - 2021UIT3085 - [@TheFutaBandit](https://github.com/TheFutaBandit)
+- **Chelsi Kothari** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Anandiya Sheel Diwan** - 2021UEE4562 - [@Karma-ASD](https://github.com/Karma-ASD)
+- **Anshita** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Ananthu Krishna** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
 

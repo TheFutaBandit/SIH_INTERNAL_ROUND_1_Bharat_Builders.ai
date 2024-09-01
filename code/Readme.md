@@ -29,7 +29,12 @@ Follow these steps to run the project locally
 1. **Clone the Repository**
    ```bash
    git clone GITHUB_LINK_TO_THE_REPO
-   cd REPO_DIRECTORY
+   cd SIH_INTERNAL_ROUND_1_Bharat_Builders.ai/code/SourceCode/dashboardApplication
    ```
 
-MORE STEPS HERE
+Important Pre-requisites:
+```bash
+pip3 install streamlit
+pip install paho-mqtt
+```
+
